@@ -1,0 +1,73 @@
+*{margin:0;padding:0;}
+.head{
+  font-family: 'Indie Flower', cursive;
+}
+.header{
+  width:1550px;
+  height:100px;
+  background-color:lightblue;
+  float:center;
+}
+a{
+  text-decoration: none;
+  color: red;
+display: inline-block;
+float: center;
+  font-family: 'Indie Flower', cursive;
+  font-size:30px;
+  padding:50px;
+
+}
+a:hover{
+  color:white;
+}
+a{
+position: relative;
+bottom:85px;
+left:150px;
+}
+.circulo{
+  width: 100px;
+height: 100px;
+-moz-border-radius: 50%;
+-webkit-border-radius: 50%;
+border-radius: 50%;
+border-style: solid;
+border-color: black;
+float: left;
+font-family: 'Indie Flower', cursive;
+
+}
+.circulo2{
+  width: 100px;
+height: 100px;
+-moz-border-radius: 50%;
+-webkit-border-radius: 50%;
+border-radius: 50%;
+border-style: solid;
+border-color: black;
+position: relative;
+font-family: 'Indie Flower', cursive;
+}
+.circulo3{
+  width: 100px;
+height: 100px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+border-style: solid;
+border-color: black;
+float:right;
+bottom:140px;
+position:relative;
+font-family: 'Indie Flower', cursive;
+}
+.titdere{
+  position: relative;
+  float: right;
+  bottom:215px;
+  left: 75px;
+}
+.img{
+  width: 100%;
+}
